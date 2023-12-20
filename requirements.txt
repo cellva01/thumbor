@@ -2,3 +2,4 @@ pip==23.3.1
 setuptools==58.0.4
 thumbor==7.7.2
 thumbor-spaces==2.21
+tc-redis==2.4.0
